@@ -34,5 +34,8 @@
     "protractor": "^7.0.0",
     "selenium-webdriver": "^4.0.0-beta.4",
     "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "mochawesome": "^6.3.1"
   }
 }
